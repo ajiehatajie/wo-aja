@@ -1,2 +1,0 @@
-(this["webpackJsonpclient-whatsapp"]=this["webpackJsonpclient-whatsapp"]||[]).push([[5],{661:function(t,e,c){"use strict";c.r(e);var s=c(4),n=c.n(s),a=c(0),p=c(35),o=c(16),r=c(40),b=c(39),i=c(2),u=function(t){var e=Object(p.c)();return Object(a.useEffect)((function(){e(Object(r.e)(t.history)),e(Object(b.b)())})),Object(i.jsx)(i.Fragment,{})};u.propTypes={history:n.a.object,logoutUser:n.a.func},e.default=Object(o.h)(u)}}]);
-//# sourceMappingURL=5.b79a2680.chunk.js.map
